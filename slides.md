@@ -1,5 +1,5 @@
 ---
-title= W.I.P
+title: W.I.P
 
 ---
 
