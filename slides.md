@@ -1,6 +1,4 @@
 ---
-revealjs.auto-animate = true
-
 
 
 ---
