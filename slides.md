@@ -1,5 +1,6 @@
 ---
 title: W.I.P
+verticalSeparator: --
 
 ---
 
@@ -81,11 +82,12 @@ Modèle organiste et analogie biologique
 
 #### Encadré n°7.2 p.227 :
 
-| | De tous | De certains |
+|     | De tous | De certains |
+| --- | ------- | ----------- |
 | Un seul | monarchie | tyranie |
-|Quelques-uns | aristocratie | oligarchie |
-| Beaucoup/tous | <span class="fragment semi-fade-out" data-fragment-index="1">république</span> <p class="fragment fade-in" data-fragment-index="1"> démocratie</p> | <span class="fragment semi-fade-out" data-fragment-index="2">démocratie</span> <p class="fragment fade-in" data-fragment-index="2"> démagogie</p>|
-|
+| Quelques-uns | aristocratie | oligarchie |
+| Beaucoup/tous | <span class="fragment semi-fade-out" data-fragment-index="1">république</span> <p class="fragment fade-in" data-fragment-index="1"> démocratie</p> | <span class="fragment semi-fade-out" data-fragment-index="2">démocratie</span> <p class="fragment fade-in" data-fragment-index="2"> démagogie</p> | 
+
 
 --
 
