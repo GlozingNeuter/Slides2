@@ -22,7 +22,15 @@ auto-animate: true
 
 #### 
 
-<section data-background-iframe="https://app.wooclap.com/events/KAHQYK/questions/623afde1ea9ff97ccccfaacd" data-preload>
+<section data-background-iframe="https://app.wooclap.com/events/UDSEGI/questions/623ef82cbd41b91ac596b8ba" data-preload>
+
+
+</section>
+
+
+---
+
+<section data-background-iframe="https://app.wooclap.com/events/UDSEGI/questions/623ef82cbd41b91ac596b8c1" data-preload>
 
 
 </section>
@@ -33,8 +41,6 @@ auto-animate: true
 #### Question 17
 
 <blockquote>La notion de « groupement politique » ou « groupement de domination » de Max Weber :</blockquote>
-
-<iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen src="https://app.wooclap.com/events/KAHQYK/questions/623afde1ea9ff97ccccfaacd" width="100%"></iframe>
 
 
 --
@@ -58,6 +64,14 @@ Définition de l’Etat : « […] communauté humaine qui, à l’intérieur d
 - <span class="fragment fade-in">Une communauté de grande taille</span> 
 
    - <span class="fragment fade-in">Importance de l’administration</span> 
+
+---
+
+<section data-background-iframe="https://app.wooclap.com/events/UDSEGI/questions/623ef82cbd41b91ac596b8c8" data-preload>
+
+
+</section>
+
 
 ---
 
@@ -88,9 +102,26 @@ Modèle organiste et analogie biologique
 
 ---
 
+<section data-background-iframe="https://app.wooclap.com/events/UDSEGI/questions/623ef82cbd41b91ac596b8cf" data-preload>
+
+
+</section>
+
+
+---
+
+
 #### Question 25
 
 <blockquote>Selon le fonctionnaliste Carl Hempel, pour comprendre un phénomène social, il faut notamment :</blockquote>
+
+---
+
+<section data-background-iframe="https://app.wooclap.com/events/UDSEGI/questions/623ef82cbd41b91ac596b8d6" data-preload>
+
+
+</section>
+
 
 ---
 
@@ -172,6 +203,13 @@ Conception de la démocratie chez Aristote
 
 ---
 
+<section data-background-iframe="https://app.wooclap.com/events/UDSEGI/questions/623ef82cbd41b91ac596b8dd" data-preload>
+
+
+</section>
+
+---
+
 #### Question 29
 
 <blockquote>La dynamique de fédéralisation centripète :</blockquote>
@@ -192,11 +230,28 @@ Conception de la démocratie chez Aristote
 
 ---
 
+
+<section data-background-iframe="https://app.wooclap.com/events/UDSEGI/questions/623ef82cbd41b91ac596b8e4" data-preload>
+
+
+</section>
+
+---
+
+
 #### Question 37
 
 <blockquote>Le processus de constitution, entre les individus et l’État, de réseaux d’organisations intermédiaires partageant une même identité idéologique, appartenant à leurs « mondes » respectifs est désigné par la notion de :</blockquote>
 
 <p class="fragment fade-in" style="color:#00ff00">&#8594; La pilarisation </p>
+
+---
+
+
+<section data-background-iframe="https://app.wooclap.com/events/UDSEGI/questions/623ef82cbd41b91ac596b8eb" data-preload>
+
+
+</section>
 
 ---
 
@@ -227,6 +282,13 @@ Conception de la démocratie chez Aristote
 
 ---
 
+<section data-background-iframe="https://app.wooclap.com/events/UDSEGI/questions/623ef82cbd41b91ac596b8f2" data-preload>
+
+
+</section>
+
+---
+
 #### Question 41
 
 <blockquote>Le consociationalisme : </blockquote>
@@ -234,9 +296,10 @@ Conception de la démocratie chez Aristote
 <p class="fragment fade-in"> est propre à des sociétés de taille plutôt petite et divisées en plusieurs mondes sociaux ou piliers s’articulant chacun autour d’un ou plusieurs parti(s) politique(s) 
  </p>
 
-<p class="fragment fade-in" style="color:#00ff00"> renvoie à un type de régime qui repose sur le mode de scrutin proportionnel  </p>
+<p class="fragment fade-in"> renvoie à un type de régime qui repose sur le mode de scrutin proportionnel  </p>
 
 --
+
 
 #### Question 41
 
@@ -248,7 +311,18 @@ Conception de la démocratie chez Aristote
 
 <p class="fragment fade-in" style="color:#00ff00">toutes les réponses sont correctes</p>
 
+
+
 ---
+
+
+<section data-background-iframe="https://app.wooclap.com/events/UDSEGI/questions/623ef82cbd41b91ac596b8f9" data-preload>
+
+
+</section>
+
+---
+
 
 #### Question 45
 
@@ -271,4 +345,3 @@ Conception de la démocratie chez Aristote
     - Importance du pluralisme 
 
     - Importance de la tolérance 
-
