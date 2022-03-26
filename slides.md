@@ -115,6 +115,19 @@ Modèle organiste et analogie biologique
 
 <blockquote>Selon le fonctionnaliste Carl Hempel, pour comprendre un phénomène social, il faut notamment :</blockquote>
 
+--
+
+1. le situer dans son contexte social ou culturel ;
+   
+2. privilégier les conséquences objectives aux raisons données par les acteurs ;
+   
+3. donner autant d’importance aux conséquences positives et négatives d’une institution sur l’ensemble social ;
+
+4. chercher les composantes structurelles susceptibles de remplir des fonctions similaires dans un milieu social ou culturel ;
+   
+5. *toutes les réponses sont correctes ;*
+
+
 ---
 
 <section data-background-iframe="https://app.wooclap.com/events/UDSEGI/questions/623ef82cbd41b91ac596b8d6" data-preload>
@@ -259,26 +272,25 @@ Conception de la démocratie chez Aristote
 
 <blockquote> Le nationalisme d’État :</blockquote>
 
---
-
-<span class="fragment strike"> 1. considère la communauté ethnique comme l’unité première de la société, pendant que l’État n’est perçu que comme l’expression politique de cette dernière</span>
-
---
-   
-<span class="fragment strike">2. considère l’appartenance à la communauté sur la base de critères ethniques</span>
-
---
-   
-<span class="fragment strike">3. a donné lieu au droit du sang, c’est-à-dire au principe juridique en vertu duquel un enfant enfant possède la nationalité d’un pays par filiation </span>
-
---
-   
-<span class="fragment strike">4. considère que la communauté ethnique domine l’idéologie, l’État n’étant là que pour protéger celle-ci</span>
 
 <p class="fragment fade-in" style="color:#00ff00">&#8594; Toutes les réponses sont fausses </p>
 
 
+--
 
+#### Nation :
+
+Communauté politique de base. Il existe plusieurs définitions de la nation.
+
+--
+
+#### Deux conception de la nation : 
+
+ - Vision hermétique de la nation
+
+ - Vision collective de la nation
+
+<p class="fragment fade-in"> <em>Attention : "nationalisme d'Etat" et non "concept de la nation" !</em> </p>
 
 ---
 
@@ -345,3 +357,4 @@ Conception de la démocratie chez Aristote
     - Importance du pluralisme 
 
     - Importance de la tolérance 
+
