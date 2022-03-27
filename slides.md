@@ -294,9 +294,9 @@ Communauté politique de base. Il existe plusieurs définitions de la nation.
 
 --
 
->Nationalisme d'État : inclusif, tout le monde peut y prendre part indépendamment de son origine ou de son appartenance ethnique.
+>**Nationalisme d'État** : inclusif, tout le monde peut y prendre part indépendamment de son origine ou de son appartenance ethnique.
 
->Nationalisme ethnique : exclusif, hermétique aux individus n'ayant pas de caractéristiques spécifiques (religieuses, linguistiques, ethniques, etc.)
+>**Nationalisme ethnique** : exclusif, hermétique aux individus n'ayant pas de caractéristiques spécifiques (religieuses, linguistiques, ethniques, etc.)
 
 ---
 
