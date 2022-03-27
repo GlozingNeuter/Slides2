@@ -117,15 +117,15 @@ Modèle organiste et analogie biologique
 
 --
 
-1. le situer dans son contexte social ou culturel ;
+1. le situer dans son contexte social ou culturel 
    
-2. privilégier les conséquences objectives aux raisons données par les acteurs ;
+2. privilégier les conséquences objectives aux raisons données par les acteurs 
    
-3. donner autant d’importance aux conséquences positives et négatives d’une institution sur l’ensemble social ;
+3. donner autant d’importance aux conséquences positives et négatives d’une institution sur l’ensemble social 
 
-4. chercher les composantes structurelles susceptibles de remplir des fonctions similaires dans un milieu social ou culturel ;
+4. chercher les composantes structurelles susceptibles de remplir des fonctions similaires dans un milieu social ou culturel 
    
-5. *toutes les réponses sont correctes ;*
+5. <span style="color:#00ff00">&#8594;>toutes les réponses sont correctes </span>
 
 
 ---
@@ -134,6 +134,7 @@ Modèle organiste et analogie biologique
 
 
 </section>
+
 
 
 ---
@@ -147,11 +148,13 @@ Modèle organiste et analogie biologique
 #### Encadré n°7.2 p.227 :
 
 
+
+
 <div data-auto-animate>
 <table class="table table-striped table-bordered">
 <thead>
 <tr>
-<th></th>
+<th>Dans l'intérêt de &#8594;</th>
 <th>De tous</th>
 <th>De certains</th>
 </tr>
@@ -169,20 +172,21 @@ Modèle organiste et analogie biologique
 </tr>
 <tr>
 <td>Beaucoup/tous</td>
-<td><span class=“fragment semi-fade-out” data-fragment-index=“1”>république</span></td>
-<td><span class=“fragment semi-fade-out” data-fragment-index=“2”>démocratie</span></td>
+<td>république</td>
+<td>démocratie</td>
 </tr>
 </tbody>
 </table>
 </div>
 
 --
+
 
 <div data-auto-animate>
-  <table class="table table-striped table-bordered">
+<table class="table table-striped table-bordered">
 <thead>
 <tr>
-<th></th>
+<th>Dans l'intérêt de &#8594;</th>
 <th>De tous</th>
 <th>De certains</th>
 </tr>
@@ -190,29 +194,43 @@ Modèle organiste et analogie biologique
 <tbody>
 <tr>
 <td>Un seul</td>
-<td>monarchie</td>
-<td>tyranie</td>
+<td style="background-color:#32612D">monarchie</td>
+<td style="background-color:#7A1712">tyranie</td>
 </tr>
 <tr>
 <td>Quelques-uns</td>
-<td>aristocratie</td>
-<td>oligarchie</td>
+<td style="background-color:#32612D">aristocratie</td>
+<td style="background-color:#7A1712">oligarchie</td>
 </tr>
 <tr>
 <td>Beaucoup/tous</td>
-<td><span style=opacity:0.25>république</span> <span class=“fragment fade-in” data-fragment-index=“1”> démocratie</span></td>
-<td><span style=opacity:0.25>démocratie</span> <span class=“fragment fade-in” data-fragment-index=“2”> démagogie</span></td>
+<td style="background-color:#32612D">république</td>
+<td style="background-color:#7A1712">démocratie</td>
 </tr>
 </tbody>
 </table>
 </div>
 
 
---
+---
 
-Conception de la démocratie chez Aristote 
+<section data-auto-animate>
 
- - Sophistes, peuple manipulable
+>Pouvoir de beaucoup/tous dans l'intérêt (supposé) d'une partie du peuple seulement : <br>&#8594; Démocratie <span style=opacity:0.25> Démagogie</span></br>
+
+>Pouvoir de beaucoup dans l'intérêt de tous : <br>&#8594;  République <span style=opacity:0.25> Démocratie</span></br>
+
+</section>
+
+
+<section data-auto-animate>
+
+>Pouvoir de beaucoup/tous dans l'intérêt (supposé) d'une partie du peuple seulement :<br>&#8594; <span style=opacity:0.25>Démocratie </span> Démagogie</br>
+
+>Pouvoir de beaucoup dans l'intérêt de tous :<br>&#8594; <span style=opacity:0.25>République </span> Démocratie</br>
+
+</section>
+
 
 ---
 
@@ -220,6 +238,7 @@ Conception de la démocratie chez Aristote
 
 
 </section>
+
 
 ---
 
