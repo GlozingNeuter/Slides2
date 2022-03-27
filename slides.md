@@ -290,7 +290,7 @@ Communauté politique de base. Il existe plusieurs définitions de la nation.
 
  - Vision collective de la nation
 
-<p class="fragment fade-in"> <em>Attention : "nationalisme d'État" et non "concept de la nation" !</em> </p>
+<p class="fragment fade-in"> <em>Attention : nationalisme d'État et non nationalisme ethnique !</em> </p>
 
 --
 
