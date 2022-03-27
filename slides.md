@@ -282,13 +282,6 @@ Conception de la démocratie chez Aristote
 
 Communauté politique de base. Il existe plusieurs définitions de la nation.
 
---
-
-#### Deux conceptions de la nation : 
-
- - Vision hermétique de la nation
-
- - Vision collective de la nation
 
 <p class="fragment fade-in"> <em>Attention : nationalisme d'État et non nationalisme ethnique !</em> </p>
 
@@ -370,4 +363,5 @@ Communauté politique de base. Il existe plusieurs définitions de la nation.
 
 
 ##### cebrail.kumlu@student.uliege.be
+
 
