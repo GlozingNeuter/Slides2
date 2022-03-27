@@ -284,13 +284,19 @@ Communauté politique de base. Il existe plusieurs définitions de la nation.
 
 --
 
-#### Deux conception de la nation : 
+#### Deux conceptions de la nation : 
 
  - Vision hermétique de la nation
 
  - Vision collective de la nation
 
-<p class="fragment fade-in"> <em>Attention : "nationalisme d'Etat" et non "concept de la nation" !</em> </p>
+<p class="fragment fade-in"> <em>Attention : "nationalisme d'État" et non "concept de la nation" !</em> </p>
+
+--
+
+>Nationalisme d'État : inclusif, tout le monde peut y prendre part indépendamment de son origine ou de son appartenance ethnique.
+
+>Nationalisme ethnique : exclusif, hermétique aux individus n'ayant pas de caractéristiques spécifiques (religieuses, linguistiques, ethniques, etc.)
 
 ---
 
@@ -357,4 +363,11 @@ Communauté politique de base. Il existe plusieurs définitions de la nation.
     - Importance du pluralisme 
 
     - Importance de la tolérance 
+
+---
+
+##### olivier.gason@student.uliege.be
+
+
+##### cebrail.kumlu@student.uliege.be
 
